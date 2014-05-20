@@ -9,7 +9,8 @@ if has('gui_macvim')
   set nobackup            " バックアップなし
   set visualbell t_vb=    " ビープ音なし
 
-  colorscheme molokai     " カラースキーマ
+  "colorscheme molokai     " カラースキーマ
+  colorscheme desert     " カラースキーマ
   set columns=100         " 横幅
   set lines=35            " 行数
   set linespace=2         " 行間 (point、Osaka 以外のフォントは 2 ぐらいを設定)
