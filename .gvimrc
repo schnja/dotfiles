@@ -18,7 +18,8 @@ if has('gui_macvim')
 
   " フォント設定
   "set guifontwide=Osaka:h12
-  set guifont=ゆたぽん（コーディング）:h16
+  "set guifont=ゆたぽん（コーディング）:h16
+  set guifont=RictyDiscord-Regular:h16
   "set guifont=Osaka-Mono:h14
   
 endif
