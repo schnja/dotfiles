@@ -119,11 +119,13 @@ let g:solarized_contrast = "high"
 set background=dark
 
 " カラースキーマを Solarized にする
-colorscheme solarized
+"colorscheme solarized
 
 " カラースキーマを molokai にする
-"colorscheme molokai
+colorscheme molokai
 
+" カラースキーマを desert にする
+"colorscheme desert 
 
 "#######################
 
