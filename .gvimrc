@@ -9,8 +9,8 @@ if has('gui_macvim')
   set nobackup            " バックアップなし
   set visualbell t_vb=    " ビープ音なし
 
-  "colorscheme molokai     " カラースキーマ
-  colorscheme desert     " カラースキーマ
+  colorscheme molokai     " カラースキーマ
+  "colorscheme desert     " カラースキーマ
   set columns=100         " 横幅
   set lines=35            " 行数
   set linespace=2         " 行間 (point、Osaka 以外のフォントは 2 ぐらいを設定)
@@ -18,8 +18,8 @@ if has('gui_macvim')
 
   " フォント設定
   "set guifontwide=Osaka:h12
-  "set guifont=ゆたぽん（コーディング）:h16
-  set guifont=RictyDiscord-Regular:h16
+  set guifont=ゆたぽん（コーディング）:h16
+  "set guifont=RictyDiscord-Regular:h16
   "set guifont=Osaka-Mono:h14
   
 endif
